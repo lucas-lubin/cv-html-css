@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+h2{
+    color: brown;
+}
+
+header{
+    color: brown;
+}
+
+.ecrit{
+    color: rgb(101, 52, 4);
+}
+
+div.bordure {
+    border-bottom:1px solid brown;
+    }
+
+.colonneleft{
+    float: left;
+    width: 33%;
+}
+.colonneright{
+    float: right;
+    width: 33%;
+}
